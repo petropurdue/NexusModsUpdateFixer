@@ -9,6 +9,7 @@
 #   2.1 at this point we are still operating with exclusively the zip files.
 #   2.2 I suppose it would make sense to remove the non-zip folders as well via the same process
 #3. Unzip the remaining folder! At this point the process should be done.
+#   !!!!! MAKE SURE YOU DO NOT UNZIP THE FOLDER IF ITS UNZIPPED VERSION ALREADY EXISTS
 
 
 from zipfile import ZipFile
